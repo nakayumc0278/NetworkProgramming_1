@@ -10,3 +10,5 @@ for i in range(8):
         data_c.append(country[i])
 
 print(data_c)
+
+#kanagawa 
